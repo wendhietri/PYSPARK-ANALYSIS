@@ -2,4 +2,4 @@
 - bahasa pemrograman python
 - menggunakan google colab
 - melakukan upload di githhub
-- mengedit filenya
+-melakukan commit
