@@ -1,0 +1,3 @@
+- membuat analisis menggunakan pyspark
+- bahasa pemrograman python
+- menggunakan google colab
